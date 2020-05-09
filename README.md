@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](h)
+- [submission PR]()
 
 #### How to initialize/run your application (where applicable)
 
