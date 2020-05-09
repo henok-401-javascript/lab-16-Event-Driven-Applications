@@ -6,19 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/henok-401-javascript/lab-14-oauth/pull/3)
-- [heroku]()
-
-### DOCUMENTATION
-
-[Swagger Hub](http://localhost:3000/api-docs#/)
-[npm publish]()
-
-### Setup
-
-#### `.env` requirements (where applicable)
-
-- `PORT` - json-server --watch ./data/db
+- [submission PR](h)
 
 #### How to initialize/run your application (where applicable)
 
@@ -34,4 +22,4 @@
 
 #### UML
 
-![UML Diagram]()
+![UML Diagram](./assets/images/event-driven.jpg)
