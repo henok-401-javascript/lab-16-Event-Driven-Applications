@@ -4,15 +4,15 @@
 //fire event
 
 const globalEmitter = require('./lib/events.js');
+const driver = require('./lib/driver.js');
 
-const pickupHandler = (payload) => {
-  // console.log('pick up handler', payload);
-  console.log(payload);
-  // console.log(Id);
-  // console.log(CustomerName);
-  // console.log('is this', Address);
-};
+// const pickupHandler = (payload) => {
+//   console.log('driver picked', payload);
 
-globalEmitter.on('pickup', pickupHandler);
+// };
+
+// globalEmitter.on('pickup', pickupHandler);
+
 // globalEmitter.emit('pickup');
-require('./lib/vendor.js');
+// require('./lib/vendor.js');
+// require('./lib/driver.js');
